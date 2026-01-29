@@ -28,7 +28,7 @@
     "url": "https://github.com/lxgicstudios/ai-code-review"
   },
   "keywords": [
-    "ai",
+    "ai", "llm", "claude", "anthropic",
     "openai",
     "gpt",
     "code-review",
