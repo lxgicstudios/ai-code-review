@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
 [![npm downloads](https://img.shields.io/npm/dm/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-code-review)](https://github.com/lxgic-studios/ai-code-review/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered code review for your staged git changes. Catch bugs and code smells before pushing.
 
