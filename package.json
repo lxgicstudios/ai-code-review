@@ -28,20 +28,26 @@
     "url": "https://github.com/lxgicstudios/ai-code-review"
   },
   "keywords": [
-    "ai", "llm", "claude", "anthropic",
-    "openai",
-    "gpt",
-    "code-review",
-    "code-analysis",
-    "linting",
-    "static-analysis",
-    "developer-tools",
-    "cli",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "anthropic",
     "automation",
-    "git",
-    "pull-request",
+    "claude",
+    "cli",
+    "code-analysis",
+    "code-review",
+    "developer-tools",
     "dx",
+    "git",
+    "gpt",
+    "linting",
+    "llm",
+    "nodejs",
+    "openai",
+    "pull-request",
+    "static-analysis",
     "typescript",
-    "nodejs"
+    "zero-config"
   ]
 }
