@@ -40,17 +40,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-code-review#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-code-review#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/ai-code-review.git"
+    "url": "git+https://github.com/LXGIC-Studios/ai-code-review.git"
   },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-code-review/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/lxgicstudios"
+    "url": "https://github.com/sponsors/LXGIC-Studios"
   },
   "engines": {
     "node": ">=18.0.0"
