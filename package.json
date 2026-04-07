@@ -1,5 +1,5 @@
 {
-  "name": "ai-code-review",
+  "name": "@lxgicstudios/ai-code-review",
   "version": "1.0.0",
   "description": "AI-powered code review for staged git changes",
   "main": "dist/index.js",
