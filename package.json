@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-code-review",
   "version": "1.0.0",
-  "description": "AI-powered code review for staged git changes",
+  "description": "AI-powered code review for staged git changes - AI-powered code-review tool with 2025 SEO optimization for developers.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -16,37 +16,41 @@
     "dev": "ts-node src/cli.ts"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "automation",
     "claude",
     "cli",
     "code-analysis",
     "code-review",
+    "developer-productivity",
     "developer-tools",
+    "discoverability",
     "dx",
-    "git",
-    "gpt",
-    "linting",
-    "llm",
-    "nodejs",
-    "openai",
-    "pull-request",
-    "static-analysis",
-    "typescript",
-    "zero-config"
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-code-review#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-code-review.git"
+    "url": "https://github.com/LXGIC-Studios/ai-code-review"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-code-review/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-code-review/issues"
   },
   "funding": {
     "type": "github",
