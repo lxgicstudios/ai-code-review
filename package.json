@@ -1,55 +1,14 @@
 {
-  "name": "@lxgicstudios/ai-code-review",
-  "version": "1.0.0",
-  "description": "AI-powered code review for staged git changes.",
-  "main": "dist/index.js",
-  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "lxgic studios",
+    "email": "contact@lxgic.com",
+    "url": "https://lxgic.com"
+  },
   "bin": {
     "ai-code-review": "dist/cli.js"
   },
-  "files": [
-    "dist",
-    "README.md"
-  ],
-  "scripts": {
-    "build": "tsc",
-    "dev": "ts-node src/cli.ts"
-  },
-  "keywords": [
-    "code-review",
-    "ai",
-    "automation",
-    "typescript",
-    "cli",
-    "AI-powered",
-    "AI-optimized",
-    "performance",
-    "optimization",
-    "seo",
-    "discoverability",
-    "2025-standards",
-    "modern-seo"
-  ],
-  "author": "LXGIC Studios",
-  "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-code-review#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxgicstudios/ai-code-review"
-  },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-code-review/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "publishConfig": {
-    "access": "public",
-    "provenance": true
   },
   "dependencies": {
     "chalk": "^4.1.2",
@@ -58,8 +17,55 @@
     "ora": "^5.4.1",
     "simple-git": "^3.25.0"
   },
+  "description": "AI-powered code review for staged git changes.",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
-  }
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "homepage": "https://github.com/lxgicstudios/ai-code-review#readme",
+  "keywords": [
+    "AI-optimized",
+    "AI-powered",
+    "ai",
+    "ai-powered",
+    "automation",
+    "best-practices",
+    "cli",
+    "developer-tools",
+    "performance",
+    "seo-tools",
+    "technical-seo",
+    "utility",
+    "web-optimization",
+    "2025-standards",
+    "modern-seo"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "@lxgicstudios/ai-code-review",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-code-review"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/cli.ts"
+  },
+  "types": "./dist/index.d.ts",
+  "version": "1.0.0"
 }
