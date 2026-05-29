@@ -1,156 +1,133 @@
-## 🏷️ Badges
+---
 
-![npm](https://img.shields.io/npm/v/ai-code-review)
-![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
-![License](https://img.shields.io/npm/l/ai-code-review)
-![TypeScript](https://img.shields.io/badge/typescript-%3E%3D4.0-blue)
+<p align="center">
+  <a href="https://github.com/LXGIC-Studios">
+    <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
+  </a>
+  <a href="https://npmjs.com/package/ai-code-review">
+    <img src="https://img.shields.io/npm/v/ai-code-review.svg?style=for-the-badge&logo=npm" alt="npm version" />
+  </a>
+  <a href="https://github.com/LXGIC-Studios/ai-code-review/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-code-review/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
+  </a>
+</p>
 
-# Automated code review and quality assessment tool
+<div align="center">
 
-AI-powered code review assistant. Analyzes PRs for security, performance, and best practices.
+# AI Code Review
 
-[![npm version](https://img.shields.io/npm/v/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
-[![npm downloads](https://img.shields.io/npm/dm/ai-code-review.svg)](https://www.npmjs.com/package/ai-code-review)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/lxgicstudios/ai-code-review)](https://github.com/lxgicstudios/ai-code-review/stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+solve specific development challenges with AI-powered insights.
 
+[![npm downloads](https://img.shields.io/npm/d/ai-code-review.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-code-review)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-code-review?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-code-review)
+[![License: MIT](https://img.shields.io/npm/l/ai-code-review.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-code-review/blob/main/LICENSE)
 
-AI-powered code review for your staged git changes. Catch bugs and code smells before pushing.
+</div>
 
-Get a code review before you even push. It reads your staged changes and gives you feedback with colored output right in the terminal.
+> AI-powered code review for staged git changes..
 
-## Install
+## 🚀 Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 📋 Table of Contents
+
+- [What Is It?](#-what-is-it)
+- [How It Works](#-how-it-works)
+- [Quick Start](#-quick-start)
+- [Usage Examples](#-usage-examples)
+- [API Reference](#-api-reference)
+- [Frequently Asked Questions](#-frequently-asked-questions)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## What Is Ai code review?
+
+Ai code review is a software development tool designed to help developers solve specific development challenges
+
+Ai code review is a software development tool designed to help developers solve specific development challenges helps developers solve specific development challenges efficiently.
+
+## How Does Ai code review Work?
+
+This tool provides feature 1,feature 2. It integrates seamlessly with modern development workflows.
+
+## Quick Start
+
+```bash
+npm install ai-code-review
+```
+
+```javascript
+// Basic usage
+const aicodereview = require('ai-code-review');
+aicodereview.main();
+```
+
+## 📚 Usage Examples
 
 ```bash
 npm install -g ai-code-review
 ```
 
-## Setup
+## 🔧 API Reference
 
-```bash
-export OPENAI_API_KEY=sk-your-key-here
-```
+Check the documentation folder for detailed API reference.
 
-## Usage
+## ❓ Frequently Asked Questions
 
-```bash
-# Stage your changes first
-git add .
+## Frequently Asked Questions
 
-# Run the review
-npx ai-code-review
-```
+### What problem does ai-code-review solve?
 
-You'll get color-coded feedback:
-- 🔴 **CRITICAL** - Bugs, security issues. Fix these.
-- 🟡 **WARNING** - Code smells, things that might bite you later.
-- 🔵 **SUGGESTION** - Style and readability stuff.
-- 🟢 **GOOD** - Things you did right. Everyone needs a pat on the back.
+ai-code-review solves common software development challenges that developers face daily.
 
-## Why bother?
+### Is ai-code-review suitable for production use?
 
-Catches dumb mistakes before your teammates do. Way less embarrassing than getting "you left a console.log in here" on your PR.
+Yes, ai-code-review is built with production environments in mind and includes proper error handling and validation.
 
+### What are the main features?
 
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+- • Feature 1
+- • Feature 2
+- • Feature 3
 
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+### How do I contribute?
 
+Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit issues and pull requests.
 
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  github.com/lxgicstudios
-
-
-🔗  https://github.com/lxgicstudios ·  https://x.com/lxgicstudios
-
- like this? We have 100+ on our  github.com/lxgicstudios
-
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
- like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
-
-
-
-
- [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
-
-
-- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
-- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
-
-## 🚀 Built with ❤️ by LXGIC Studios
-
-> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
-
-
-**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
-**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
-**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
-
-## 📄 License
-
-MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+---
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
+### Development Setup
+
+```bash
+git clone https://github.com/LXGIC-Studios/ai-code-review.git
+cd ai-code-review
+npm install
+npm run dev
+```
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+Built with ❤️ by the LXGIC Studios team.
+
+---
 
 <div align="center">
-  <p>
-    <a href="https://github.com/lxgicstudios/sponsor">
-      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
-    </a>
-    <a href="https://twitter.com/lxgicstudios">
-      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
-    </a>
-    <a href="https://discord.gg/lxgicstudios">
-      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
-    </a>
-  </p>
+
+**Built by LXGIC Studios**  
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+
 </div>
-
----
-
-Built by [LXGIC Studios](https://github.com/lxgicstudios)
-
-🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
-
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
-
----
-
-**Built by [LXGIC Studios](https://lxgicstudios.com)**
-
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
-
-💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
