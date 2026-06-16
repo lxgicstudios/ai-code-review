@@ -8,7 +8,7 @@
     "ai-code-review": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-code-review/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "chalk": "^4.1.2",
@@ -33,26 +33,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-code-review#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-code-review",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "agentic-automation",
-    "ai",
-    "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "code-review",
+    "pr-review",
+    "code-quality",
+    "static-analysis",
+    "peer-review"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -63,7 +50,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-code-review"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-code-review"
   },
   "scripts": {
     "build": "tsc",
