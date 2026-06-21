@@ -1,13 +1,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LXGIC-Studios">
+  <a href="https://github.com/lxgicstudios">
     <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
   </a>
   <a href="https://npmjs.com/package/ai-code-review">
     <img src="https://img.shields.io/npm/v/ai-code-review.svg?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  <a href="https://github.com/LXGIC-Studios/ai-code-review/actions">
+  <a href="https://github.com/lxgicstudios/ai-code-review/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-code-review/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 solve specific development challenges with AI-powered insights.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-code-review.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-code-review)
-[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-code-review?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-code-review)
-[![License: MIT](https://img.shields.io/npm/l/ai-code-review.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-code-review/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-code-review?style=for-the-badge&logo=github&label=stars)](https://github.com/lxgicstudios/ai-code-review)
+[![License: MIT](https://img.shields.io/npm/l/ai-code-review.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/lxgicstudios/ai-code-review/blob/main/LICENSE)
 
 </div>
 
@@ -108,7 +108,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/LXGIC-Studios/ai-code-review.git
+git clone https://github.com/lxgicstudios/ai-code-review.git
 cd ai-code-review
 npm install
 npm run dev
@@ -127,7 +127,7 @@ Built with ❤️ by the LXGIC Studios team.
 <div align="center">
 
 **Built by LXGIC Studios**  
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
 </div>

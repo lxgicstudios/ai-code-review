@@ -8,7 +8,7 @@
     "ai-code-review": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "chalk": "^4.1.2",
@@ -33,13 +33,15 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-code-review",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-code-review",
   "keywords": [
     "code-review",
     "pr-review",
     "code-quality",
     "static-analysis",
-    "peer-review"
+    "peer-review",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,7 +52,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-code-review"
   },
   "scripts": {
