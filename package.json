@@ -39,7 +39,9 @@
     "code-review",
     "pr-review",
     "static-analysis",
-    "peer-review"
+    "peer-review",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
