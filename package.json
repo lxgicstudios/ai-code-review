@@ -49,10 +49,7 @@
     "gpt",
     "npx",
     "openai",
-    "peer-review",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "peer-review"
   ],
   "license": "MIT",
   "main": "dist/index.js",
