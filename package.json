@@ -17,7 +17,7 @@
     "ora": "^5.4.1",
     "simple-git": "^3.25.0"
   },
-  "description": "AI-powered code review for staged git changes.",
+  "description": "AI-powered code review for staged git changes. Finds bugs, security issues, and style problems before you commit. Works with any language.",
   "devDependencies": {
     "typescript": "^5.5.0",
     "@types/node": "^20.14.0"
